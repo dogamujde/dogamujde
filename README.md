@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Doga Mujde
 
-Welcome to my GitHub profile! I'm a passionate developer and student currently pursuing a Bachelor’s in Artificial Intelligence and Computer Science at the University of Edinburgh. My projects and interests lie at the intersection of functional programming, creative problem-solving, and impactful software solutions.
+Welcome to my GitHub profile! I'm a passionate developer and student currently pursuing a Bachelor’s in Artificial Intelligence and Computer Science at the University of Edinburgh. My projects and interests lie at the intersection of object-oriented and functional programming, creative problem-solving, and impactful software solutions.
 
 ---
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer and student currently p
 
 ## **Education**
 - 🎓 **University of Edinburgh** (2024–2028): Bachelor of Artificial Intelligence and Computer Science.  
-- 📜 **Certificates**: CS50x (Harvard), Pre-University Calculus (Delft), Algebraic Methods (Imperial College).  
+- 📜 **Certificates**: CS50x (Harvard), Pre-University Calculus (Delft), Algebraic Methods (Imperial College)...  
 
 ---
 
@@ -27,12 +27,12 @@ Welcome to my GitHub profile! I'm a passionate developer and student currently p
 
 ## **Skills**
 - **Programming Languages**: Haskell, Python, R, Java, C/C++.  
-- **Developer Tools**: Git, GitHub, VS Code, R Studio, Eclipse.  
+- **Developer Tools**: Git, GitHub, VS Code, R Studio, Eclipsel, Cursor, Bolt.  
 - **Languages**: English, Turkish.
 
 ---
 
 ## **Let’s Connect!**
 - 🌐 [LinkedIn](https://linkedin.com/in/doga-mujde)  
-- 💻 [GitHub](https://github.com/doga2424)  
+- 💻 [GitHub](https://github.com/dogamujde)  
 - 📧 Email: D.Mujde@sms.ed.ac.uk  
