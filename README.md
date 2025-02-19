@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer and student currently p
 ## **About Me**
 - 🌍 **Background**: Originally from Istanbul, Türkiye, I have a strong foundation in STEM from my time at Vefa High School and through various international academic programs.
 - 👩‍💻 **Programming Expertise**: I work with languages like Haskell, Python, R, Java, and C/C++ to create solutions ranging from data analysis to visual art projects.
-- 🧠 **Current Focus**: Exploring functional programming concepts, developing modular and extensible frameworks, and combining creativity with technical skills in AI and robotics.
+- 🧠 **Current Focus**: Exploring object-oriented programming concepts, developing projects using AI tools, and combining creativity with technical skills in this field.
 
 ---
 
