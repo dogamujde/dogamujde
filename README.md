@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Doga Mujde
+# 👋 Hi, I’m Doga
 
 Welcome to my GitHub profile! I'm a passionate developer and student currently pursuing a Bachelor’s in Artificial Intelligence and Computer Science at the University of Edinburgh. My projects and interests lie at the intersection of object-oriented and functional programming, creative problem-solving, and impactful software solutions.
 
