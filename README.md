@@ -15,18 +15,18 @@ Welcome to my GitHub profile! I'm a passionate developer and student currently p
 
 ## **Education**
 - 🎓 **University of Edinburgh** (2024–2028): Bachelor of Artificial Intelligence and Computer Science.  
-- 📜 **Certificates**: CS50x (Harvard), Pre-University Calculus (Delft), Algebraic Methods (Imperial College)...  
+- 📜 **Certificates**: AP Scholar with Distinction Award, CS50x (Harvard), Pre-University Calculus (Delft), Algebraic Methods (Imperial College)...  
 
 ---
 
 ## **Experience**
-- 🖥 **Frontend Developer Intern**: Built responsive user interfaces with Flutter, collaborating with designers and backend developers to create seamless cross-platform applications.  
-- 📈 **Investment Finance Intern**: Researched financial history for Albemarle Corporation and presented findings to a jury of finance professionals.  
+- 🖥 **Frontend Developer**: Built responsive user interfaces with Flutter, collaborating with designers and backend developers to create seamless cross-platform applications.  
+- 📈 **Investment Finance Analyst Intern**: Researched financial history for Albemarle Corporation and presented findings to a jury of finance professionals.  
 
 ---
 
 ## **Skills**
-- **Programming Languages**: Haskell, Python, R, Java, C/C++.  
+- **Programming Languages**: Java, Haskell, Python, R, C/C++.  
 - **Developer Tools**: Git, GitHub, VS Code, R Studio, Eclipsel, Cursor, Bolt.  
 - **Languages**: English, Turkish.
 
