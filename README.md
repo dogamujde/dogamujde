@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer and student currently p
 
 ## **Education**
 - 🎓 **University of Edinburgh** (2024–2028): Bachelor of Artificial Intelligence and Computer Science.  
-- 📜 **Certificates**: AP Scholar with Distinction Award, CS50x (Harvard), Pre-University Calculus (Delft), Algebraic Methods (Imperial College)...  
+- 📜 **Awards and Certificates**: Winner of HacktheBurgh 2025, Winner of Adahack 2024,  AP Scholar with Distinction Award, CS50x (Harvard), Pre-University Calculus (Delft), Algebraic Methods (Imperial College)...  
 
 ---
 
